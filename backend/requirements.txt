@@ -61,7 +61,7 @@ ordered-set==3.1.1
 packaging==20.1
 pandas==1.0.1
 pandocfilters==1.4.2
-paramiko==2.7.1
+paramiko==2.10.1
 parso==0.6.1
 pep517==0.8.1
 pexpect==4.8.0
